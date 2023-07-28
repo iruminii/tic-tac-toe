@@ -6,3 +6,5 @@
 4. When someone wins, highlight the three squares that caused the win (and when no one wins, display a message about the result being a draw).
 5. Display the location for each move in the format (row, col) in the move history list.
 [![screenshot](/reacttut.png)](https://iruminii.github.io/tic-tac-toe/)
+
+Only Functional Components
